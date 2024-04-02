@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="umar-razzaq-66ab5a222" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/umar-razzaq-66ab5a222?trk=profile-badge">Umar Razzaq</a></div>
+              
 <!---
 iamumarrazzaq/iamumarrazzaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
